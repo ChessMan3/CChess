@@ -25,7 +25,7 @@
 UNAME = $(shell uname)
 
 ### Executable name
-EXE = CChess
+EXE = cfish
 
 ### Installation dir definitions
 PREFIX = /usr/local
