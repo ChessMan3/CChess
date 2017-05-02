@@ -25,7 +25,7 @@
 UNAME = $(shell uname)
 
 ### Executable name
-EXE = CChess
+EXE = CorCFishExtended
 
 ### Installation dir definitions
 PREFIX = /usr/local
