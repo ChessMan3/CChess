@@ -129,7 +129,7 @@ void print_engine_info(int to_uci)
                      , HasNuma ? " NUMA" : ""
                      , to_uci ? "\nid author T. Romstad, M. Costalba, "
                                 "J. Kiiski, G. Linscott"
-                              : " by ChessMan3 based on CFish\Corchess_1.3");
+                              : " by ChessMan3 based on CFish&Corchess_1.3");
   fflush(stdout);
 }
 
